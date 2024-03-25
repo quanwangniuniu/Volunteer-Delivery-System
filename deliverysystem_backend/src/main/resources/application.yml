@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/deliverysystem
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 1111
+    type: com.alibaba.druid.pool.DruidDataSource
+
+---
+spring:
+  thymeleaf:
+    cache: false
+---
+server:
+  port: 8080
