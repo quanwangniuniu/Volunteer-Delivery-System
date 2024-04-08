@@ -50,6 +50,4 @@ The backend utilizes Spring's annotation-based approach for database operations.
 
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests through the GitHub repository.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
